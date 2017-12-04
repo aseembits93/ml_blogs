@@ -13,3 +13,9 @@ https://arxiv.org
 https://www.datatau.com/  
 https://blog.acolyer.org  
 https://aitopics.org/search  
+http://otoro.net/  
+https://blog.openai.com/  
+https://research.googleblog.com/  
+https://research.fb.com/blog/  
+https://blogs.nvidia.com/blog/category/deep-learning/  
+https://machinelearning.apple.com/  
