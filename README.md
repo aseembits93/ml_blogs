@@ -21,3 +21,4 @@ https://blogs.nvidia.com/blog/category/deep-learning/
 https://machinelearning.apple.com/  
 https://github.com/brylevkirill/notes  
 https://terrytao.wordpress.com/  
+http://www.yingzhenli.net/home/blog  
