@@ -23,3 +23,4 @@ https://github.com/brylevkirill/notes
 https://terrytao.wordpress.com/  
 http://www.yingzhenli.net/home/blog  
 https://hips.seas.harvard.edu/blog/  
+http://www.argmin.net/  
