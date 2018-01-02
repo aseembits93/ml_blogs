@@ -25,3 +25,6 @@ http://www.yingzhenli.net/home/blog
 https://hips.seas.harvard.edu/blog/  
 http://www.argmin.net/  
 https://blogs.microsoft.com/ai/  
+https://deepmind.com/blog/
+https://karpathy.github.io/
+http://blog.shakirm.com/
