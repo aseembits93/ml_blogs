@@ -24,7 +24,11 @@ https://terrytao.wordpress.com/
 http://www.yingzhenli.net/home/blog  
 https://hips.seas.harvard.edu/blog/  
 http://www.argmin.net/  
-https://blogs.microsoft.com/ai/  
-https://deepmind.com/blog/
-https://karpathy.github.io/
-http://blog.shakirm.com/
+https://blogs.microsoft.com/ai/    
+https://deepmind.com/blog/  
+https://karpathy.github.io/  
+http://blog.shakirm.com/  
+http://ruder.io/  
+http://iamtrask.github.io/  
+http://timvieira.github.io/  
+https://simplystatistics.org/  
