@@ -33,3 +33,4 @@ http://iamtrask.github.io/
 http://timvieira.github.io/  
 https://simplystatistics.org/  
 http://www.aihelsinki.com/blog/  
+https://thecuriousaicompany.com/blog/  
