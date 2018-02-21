@@ -34,3 +34,7 @@ http://timvieira.github.io/
 https://simplystatistics.org/  
 http://www.aihelsinki.com/blog/  
 https://thecuriousaicompany.com/blog/  
+https://www.reddit.com/r/MachineLearning/  
+https://www.alexirpan.com/  
+https://thinkingwires.com/  
+http://noahgolmant.com/  
