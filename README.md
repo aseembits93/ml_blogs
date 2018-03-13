@@ -38,3 +38,4 @@ https://www.reddit.com/r/MachineLearning/
 https://www.alexirpan.com/  
 https://thinkingwires.com/  
 http://noahgolmant.com/  
+http://www.shortscience.org/  
