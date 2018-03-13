@@ -1,5 +1,5 @@
 # ml_blogs
-Curation of interesting blogs to follow in the field of Machine Learning, AI, Robotics, Computer Vision
+Curation of interesting blogs to follow in the field of Machine Learning, AI, Robotics, Computer Vision  
 http://www.offconvex.org/  
 http://www.inference.vc/  
 http://bair.berkeley.edu/blog/  
@@ -39,3 +39,4 @@ https://www.alexirpan.com/
 https://thinkingwires.com/  
 http://noahgolmant.com/  
 http://www.shortscience.org/  
+https://danieltakeshi.github.io
