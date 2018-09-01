@@ -39,5 +39,6 @@ https://www.alexirpan.com/
 https://thinkingwires.com/  
 http://noahgolmant.com/  
 http://www.shortscience.org/  
-https://danieltakeshi.github.io
+https://danieltakeshi.github.io  
 https://thegradient.pub  
+
