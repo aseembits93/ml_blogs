@@ -40,3 +40,4 @@ https://thinkingwires.com/
 http://noahgolmant.com/  
 http://www.shortscience.org/  
 https://danieltakeshi.github.io
+https://thegradient.pub  
